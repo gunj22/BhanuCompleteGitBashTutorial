@@ -5,5 +5,6 @@ public class secondClass {
 		
 		
 		System.out.println("Second Class Changes done");
+		System.out.println("New Methods added into Second Class");
 	}
 }
