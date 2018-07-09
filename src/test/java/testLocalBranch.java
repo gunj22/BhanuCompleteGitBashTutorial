@@ -9,6 +9,7 @@ public class testLocalBranch {
 		System.out.println("123");
 		System.out.println("78687897");
 		System.out.println("tstssts");
+		System.out.println("Monday");
 
 	}
 
